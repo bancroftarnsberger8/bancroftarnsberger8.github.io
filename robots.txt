@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://bancroftarnsberger8.github.io/sitemap.xml
+Sitemap: https://bancroftarnsberger8.github.io/urllist2/sitemap_index.txt
